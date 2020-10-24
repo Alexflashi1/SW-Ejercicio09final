@@ -1,0 +1,42 @@
+
+h1{
+	text-align: center;
+	stroke: 200px black;
+	text-shadow: 0 0 0.2em blue;
+	font-family: 'Times New Roman', cursive, ;
+}
+
+p{
+	color: white;
+	stroke: 400px gray;
+}
+input{
+	margin-bottom: 8px;
+}
+label{
+	line-height: 29px;
+}
+
+body{
+	background: black;
+	color: white;
+
+
+
+}
+#datos{
+	background-color: transparent;
+	color: cyan;
+	
+
+}
+h2{
+	stroke: 200px black;
+	text-shadow: 0 0 0.2em blue;
+	font-family: 'Times New Roman', cursive, ;
+
+}
+input{
+	background-color: limegreen;
+	color: white;
+}
